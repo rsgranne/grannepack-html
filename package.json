@@ -1,0 +1,53 @@
+{
+  "name": "grannepack-html",
+  "displayName": "GrannePack HTML",
+  "description": "HTML-related extensions for Scott Granneman’s Web Dev courses",
+  "version": "1.0",
+  "publisher": "granneman",
+  "author": {
+    "name": "Scott Granneman",
+    "email": "scott@granneman.com"
+  },
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.34.0"
+  },
+  "icon": "images/grannepack-html-logo.png",
+  "categories": [
+    "Extension Packs"
+  ],
+  "keywords": [
+    "html",
+    "grannepack"
+  ],
+  "galleryBanner": {
+    "color": "#4a525a",
+    "theme": "dark"
+  },
+  "repository": {
+    "url": "https://github.com/rsgranne/grannepack-html"
+  },
+  "homepage": "https://github.com/rsgranne/grannepack-html",
+  "bugs": {
+    "url": "https://github.com/rsgranne/grannepack-html/issues"
+  },
+  "extensionPack": [
+    "3axap4eHko.file-templates-manager",
+    "AdamCaviness.theme-monokai-dark-soda",
+    "JakeWilson.vscode-placeholder-images",
+    "anseki.vscode-color",
+    "ban.spellright",
+    "cantonios.project-templates",
+    "fabiospampinato.vscode-projects-plus",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "ionutvmi.path-autocomplete",
+    "letrieu.expand-region",
+    "ms-vsliveshare.vsliveshare-pack",
+    "oderwat.indent-rainbow",
+    "PKief.material-icon-theme",
+    "ritwickdey.LiveServer",
+    "sleistner.vscode-fileutils",
+    "Tyriar.sort-lines"
+  ]
+}
