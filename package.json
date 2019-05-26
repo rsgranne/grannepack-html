@@ -2,7 +2,7 @@
   "name": "grannepack-html",
   "displayName": "GrannePack HTML",
   "description": "HTML-related extensions for Scott Granneman’s Web Dev courses",
-  "version": "1.0",
+  "version": "0.1.0",
   "publisher": "granneman",
   "author": {
     "name": "Scott Granneman",
