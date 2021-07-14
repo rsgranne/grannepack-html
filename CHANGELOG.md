@@ -1,8 +1,26 @@
-# Change Log
+# Changelog
 
 All notable changes to the "grannepack-html" extension pack will be documented in this file.
 
-The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/). 
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
+
+## [0.5] - 2021-07-14
+
+Removed the following extension, because Microsoft now offers the equivalent with Live Preview:
+
+* [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer): see changes to your webpages as you update your code
+
+Added the following extension by Microsoft, which replaces Live Server:
+
+* [Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server): hosts a local server in your workspace for you to preview your webpages
+
+Total count: 12 extensions & 2 themes.
+
+## [0.4] - 2020-04-09
+
+Removed the following extensions:
+
+* Auto Rename Tag by Jun Han (as of VS Code 1.44, the functionality, called *Synced Regions*, is built in & detailed at <https://code.visualstudio.com/updates/v1_44#_synced-regions>)
 
 ## [0.3] - 2019-11-08
 
