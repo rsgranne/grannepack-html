@@ -4,6 +4,12 @@ All notable changes to the "grannepack-html" extension pack will be documented i
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [0.5.1] - 2022-01-29
+
+I forgot to add [Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server) to `package.json`, so that silly mistake is now fixed.
+
+Total count: 13 extensions & 2 themes.
+
 ## [0.5] - 2021-07-14
 
 Removed the following extension, because Microsoft now offers the equivalent with Live Preview:
