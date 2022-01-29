@@ -2,7 +2,7 @@
   "name": "grannepack-html",
   "displayName": "GrannePack HTML",
   "description": "HTML-related extensions for Scott Granneman’s Web Dev courses",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "publisher": "granneman",
   "author": {
     "name": "Scott Granneman",
@@ -41,10 +41,10 @@
     "fabiospampinato.vscode-projects-plus",
     "formulahendry.auto-close-tag",
     "ionutvmi.path-autocomplete",
+    "ms-vscode.live-server",
     "ms-vsliveshare.vsliveshare-pack",
     "oderwat.indent-rainbow",
     "PKief.material-icon-theme",
-    "sleistner.vscode-fileutils",
-    "vscode.live-server"
+    "sleistner.vscode-fileutils"
   ]
 }
