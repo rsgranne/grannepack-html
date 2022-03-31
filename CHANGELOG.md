@@ -4,6 +4,10 @@ All notable changes to the "grannepack-html" extension pack will be documented i
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [0.7] - 2022-03-31
+
+Added HTMLHint to find & report problems with HTML. I also updated the [settings.json file I have students use](https://gist.github.com/rsgranne/98c3040953a83d8d3cec41b8c058a0ae) by turning on several of HTMLHint’s rules; otherwise, installing HTMLHint does nothing on its own.
+
 ## [0.6] - 2022-03-29
 
 Replaced the [Spell Right](https://marketplace.visualstudio.com/items?itemName=ban.spellright) extension with [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker), which does a far better job & is certainly better for code. Please note that Code Spell Checker is case insensitive, so it cannot tell the difference between *foo* & *Foo*.
