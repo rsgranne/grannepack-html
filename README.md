@@ -13,7 +13,6 @@ This extension pack of HTML-related extensions is aimed at students in [Scott Gr
 * [HTMLHint](https://marketplace.visualstudio.com/items?itemName=mkaufman.HTMLHint): find & report errors in your HTML
 * [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow): colorize indentation levels
 * [Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server): preview your webpages with a local server
-* [Live Share Extension Pack](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack): collaborate on editing with optional chat
 * [Placeholder Images](https://marketplace.visualstudio.com/items?itemName=JakeWilson.vscode-placeholder-images): insert placeholder images
 * [Project Templates](https://marketplace.visualstudio.com/items?itemName=cantonios.project-templates): create projects from folder templates
 * [Projects+](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-projects-plus): manage your projects

@@ -4,9 +4,17 @@ All notable changes to the "grannepack-html" extension pack will be documented i
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [0.8] - 2022-05-12
+
+Removed Microsoft’s Live Share Extension Pack because I never used it with students, & it kept popping up notifications that confused them. If they need it, they can install it.
+
+Total count: 11 extensions & 2 themes
+
 ## [0.7] - 2022-03-31
 
 Added HTMLHint to find & report problems with HTML. I also updated the [settings.json file I have students use](https://gist.github.com/rsgranne/98c3040953a83d8d3cec41b8c058a0ae) by turning on several of HTMLHint’s rules; otherwise, installing HTMLHint does nothing on its own.
+
+Total count: 12 extensions & 2 themes
 
 ## [0.6] - 2022-03-29
 
