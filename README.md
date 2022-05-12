@@ -1,4 +1,5 @@
 This is the README for GrannePack HTML.
+
 # GrannePack HTML
 
 This extension pack of HTML-related extensions is aimed at students in [Scott Granneman’s](https://www.granneman.com) beginning Web Development courses. Other extension packs focus on [CSS](https://marketplace.visualstudio.com/items?itemName=granneman.grannepack-css), [Git](https://marketplace.visualstudio.com/items?itemName=granneman.grannepack-git), & [Markdown](https://marketplace.visualstudio.com/items?itemName=granneman.grannepack-markdown).
