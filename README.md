@@ -11,7 +11,7 @@ This extension pack of HTML-related extensions is aimed at students in [Scott Gr
 * [Color Picker](https://marketplace.visualstudio.com/items?itemName=anseki.vscode-color): generate colors using a GUI
 * [File Templates Manager](https://marketplace.visualstudio.com/items?itemName=3axap4eHko.file-templates-manager): manage individual page templates
 * [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils): duplicate, move, rename, & delete files & folders
-* [HTMLHint](https://marketplace.visualstudio.com/items?itemName=mkaufman.HTMLHint): find & report errors in your HTML
+* [HTMLHint](https://marketplace.visualstudio.com/items?itemName=HTMLHint.vscode-htmlhint): find & report errors in your HTML
 * [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow): colorize indentation levels
 * [Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server): preview your webpages with a local server
 * [Placeholder Images](https://marketplace.visualstudio.com/items?itemName=JakeWilson.vscode-placeholder-images): insert placeholder images

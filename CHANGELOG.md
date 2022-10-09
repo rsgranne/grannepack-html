@@ -4,6 +4,12 @@ All notable changes to the "grannepack-html" extension pack will be documented i
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [0.9] - 2022-10-09
+
+Mike Kaufman's version of HTMLHint is deprecated & has been migrated to a new version overseen by a user named HTMLHint. It also appears that further work has been done to the extension, which is encouraging.
+
+Total count: 11 extensions & 2 themes
+
 ## [0.8] - 2022-05-12
 
 Removed Microsoft’s Live Share Extension Pack because I never used it with students, & it kept popping up notifications that confused them. If they need it, they can install it.
