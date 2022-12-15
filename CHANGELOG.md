@@ -4,6 +4,12 @@ All notable changes to the "grannepack-html" extension pack will be documented i
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [0.10] - 2022-12-15
+
+Added [Image Preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview), which provides a preview of images in the gutter & by hovering over links.
+
+Total count: 12 extensions & 2 themes.
+
 ## [0.9] - 2022-10-09
 
 Mike Kaufman's version of HTMLHint is deprecated & has been migrated to a new version overseen by a user named HTMLHint. It also appears that further work has been done to the extension, which is encouraging.

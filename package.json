@@ -2,7 +2,7 @@
   "name": "grannepack-html",
   "displayName": "GrannePack HTML",
   "description": "HTML-related extensions for Scott Granneman’s Web Dev courses",
-  "version": "0.9.0",
+  "version": "0.10.0",
   "publisher": "granneman",
   "author": {
     "name": "Scott Granneman",
@@ -18,7 +18,8 @@
   ],
   "keywords": [
     "html",
-    "grannepack"
+    "grannepack",
+    "teaching"
   ],
   "galleryBanner": {
     "color": "#4a525a",
@@ -40,6 +41,7 @@
     "fabiospampinato.vscode-projects-plus",
     "formulahendry.auto-close-tag",
     "htmlhint.vscode-htmlhint",
+    "kisstkondoros.vscode-gutter-preview",
     "ms-vscode.live-server",
     "oderwat.indent-rainbow",
     "PKief.material-icon-theme",
